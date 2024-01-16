@@ -4,7 +4,7 @@ subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Plan & Play?
-    text: "환영합니다! "plan & play는 시간을 더 즐겁게 계획하고 게임을 즐기기 위한 완벽한 동반자입니다. "
+    text: "환영합니다! plan & play는 시간을 더 즐겁게 계획하고 게임을 즐기기 위한 완벽한 동반자입니다. "
 intro:
     heading: "주요 기능과 특징"
     text: "이 앱은 여러분이 게임을 할 때 시간을 효과적으로 관리하고, 일상생활과의 균형을 유지하며 더 나은 게임 경험을 즐길 수 있도록 돕습니다."
