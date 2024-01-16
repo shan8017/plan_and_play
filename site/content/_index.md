@@ -21,8 +21,8 @@ products:
       text: "게임 기록 확인 "      
     - image: /img/illustrations-coffee-gear.svg
       text: "레벨 잠금 해제 "  
-values:
-    heading: 자유로운 시간 설정
-    text: "게임할 시간과 계획 기간을 직접 설정하세요."
+#values:
+#    heading: 자유로운 시간 설정
+#    text: "게임할 시간과 계획 기간을 직접 설정하세요."
 ---
 
